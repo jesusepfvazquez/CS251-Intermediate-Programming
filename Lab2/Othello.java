@@ -1,6 +1,4 @@
 // Jesus Vazquez
-// cs251
-// Due 10/12/2018
 
 // Description by http://www.othelloonline.org/
 
