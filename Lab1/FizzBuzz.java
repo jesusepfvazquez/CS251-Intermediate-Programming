@@ -1,7 +1,4 @@
-// Jesus Epifanio Vazquez
-// Instructor: Brooke Chenoweth 
-// Class: CS 251:002
-// ID; 101645766
+// Author: Jesus E. Vazquez
 
 // What is this code about?
 // The first argument will be the number whose multiples will be replaced with
